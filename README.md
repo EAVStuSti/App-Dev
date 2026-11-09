@@ -36,6 +36,4 @@ Here's `inline code` for fun.
 ---
 
 ### Useful Link
-[Watch the trailer](https://www.youtube.com)
-
-![Poster](https://[example.com/poster.jpg](https://beyonder.pages.dev/_app/immutable/assets/web-lotm-cover.wk6YOV_J.jpg))
+[Watch the trailer]([https://www.youtube.com](https://youtu.be/a8p-l75icsA?si=eSveIBCiCC74Q4se))
