@@ -29,10 +29,6 @@ This series is my favorite because:
 ## Tasks I Plan to Do
 - [x] Watch Season 1
 - [ ] Watch Season 2
-
-## Code Example
-Here's `inline code` for fun.
-
 ---
 
 ### Useful Link
